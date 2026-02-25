@@ -50,7 +50,7 @@ I'm a researcher and builder focused on the frontier of **generative AI and scie
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🎭 Mini Shakespeare Transformer](https://github.com/Shreyaj-pseudo/Mini-Shakespeare-Transformer-model-) | Character-level transformer trained on Shakespeare's works — GPT architecture from scratch | PyTorch, Transformers |
-| [♟️ AI Chess Coach](https://github.com/Shreyaj-pseudo/AI-Chess-Coach) | Intelligent chess coaching system with move analysis and personalized feedback | Python, AI/ML |
+| [📬 Intelligent Mail Classifier](https://github.com/Shreyaj-pseudo/Personal-Mail-Classifier-using-different-models) | Personal email classification system benchmarking multiple ML models for smart inbox organization | Python, ML, NLP |
 
 > 📂 View all projects → [github.com/Shreyaj-pseudo](https://github.com/Shreyaj-pseudo?tab=repositories)
 
@@ -92,18 +92,10 @@ I'm a researcher and builder focused on the frontier of **generative AI and scie
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaj-pseudo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaj-pseudo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165"/>
-</div>
-
----
 
 <div align="center">
 
-*"The goal is not to predict the future — it's to build systems that understand the present."*
+*"The goal is not to predict the future, it's to build systems that understand the present."*
 
 📬 **shreyaj.palchoudhury@mail.utoronto.ca**
 
