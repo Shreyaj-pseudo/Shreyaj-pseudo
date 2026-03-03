@@ -51,6 +51,7 @@ I'm a researcher and builder focused on the frontier of **generative AI and scie
 |--------|-------------|-------|
 | [🎭 Mini Shakespeare Transformer](https://github.com/Shreyaj-pseudo/Mini-Shakespeare-Transformer-model-) | Character-level transformer trained on Shakespeare's works — GPT architecture from scratch | PyTorch, Transformers |
 | [📬 Intelligent Mail Classifier](https://github.com/Shreyaj-pseudo/Personal-Mail-Classifier-using-different-models) | Personal email classification system benchmarking multiple ML models for smart inbox organization | Python, ML, NLP |
+| [🧠 Parallel Self-Decision maker](https://github.com/Shreyaj-pseudo/Parallel-Self-decision-maker) |  AI application that simulates an internal debate between four distinct reasoning personas to help you make smarter, more considered decisions | Python, RAG, FullStack |
 
 > 📂 View all projects → [github.com/Shreyaj-pseudo](https://github.com/Shreyaj-pseudo?tab=repositories)
 
