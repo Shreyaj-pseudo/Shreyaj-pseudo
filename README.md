@@ -49,6 +49,7 @@ I'm a researcher and builder focused on the frontier of **generative AI and scie
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [🦫 Bibintell](https://github.com/BoyaZhangNB/Bibintell) | AI-powered study focus companion — slightly judgmental beaver living in your browser, nudges you back when you drift | Chrome Extension, FastAPI, JS Frontend, LLM-powered semantic analysis | Lightweight AI, Real-time page monitoring, Early stateful memory experiments |
 | [🎭 Mini Shakespeare Transformer](https://github.com/Shreyaj-pseudo/Mini-Shakespeare-Transformer-model-) | Character-level transformer trained on Shakespeare's works — GPT architecture from scratch | PyTorch, Transformers |
 | [📬 Intelligent Mail Classifier](https://github.com/Shreyaj-pseudo/Personal-Mail-Classifier-using-different-models) | Personal email classification system benchmarking multiple ML models for smart inbox organization | Python, ML, NLP |
 | [🧠 Parallel Self-Decision maker](https://github.com/Shreyaj-pseudo/Parallel-Self-decision-maker) |  AI application that simulates an internal debate between four distinct reasoning personas to help you make smarter, more considered decisions | Python, RAG, FullStack |
