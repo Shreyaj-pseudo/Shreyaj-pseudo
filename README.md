@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyaj-pal-choudhury-826465271/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyaj.palchoudhury@mail.utoronto.ca)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyaj007)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qCpb6SE0eROuZSdFqSbrgOoZFvhOFxDB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17yHPQFcBXMkTHwpbDx_h0SSDXCNznnl4/view?usp=drive_link)
 
 </div>
 
