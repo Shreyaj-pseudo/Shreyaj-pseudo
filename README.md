@@ -49,7 +49,7 @@ I'm a researcher and builder focused on the frontier of **generative AI and scie
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🛡️ TruckGuard](https://github.com/Shreyaj-pseudo/TruckGuard) | AI-powered study focus companion — slightly judgmental beaver living in your browser, nudges you back when you drift | Node.js + Express, ElevenLabs, Groq, Web Speech API, Chart.js | Lightweight AI, Real-time page monitoring, Early stateful memory experiments |
+| [🛡️ TruckGuard](https://github.com/Shreyaj-pseudo/TruckGuard) | Fatigue is invisible. A driver who is dangerously impaired often doesn't know it themselves. Current solutions — mandatory rest logs, self-reporting — rely entirely on the driver's own judgment at the exact moment that judgment is most compromised. | Node.js + Express, ElevenLabs, Groq, Web Speech API, Chart.js | Lightweight AI, Real-time page monitoring, Early stateful memory experiments |
 | [🦫 Bibintell](https://github.com/BoyaZhangNB/Bibintell) | AI-powered study focus companion — slightly judgmental beaver living in your browser, nudges you back when you drift | Chrome Extension, FastAPI, JS Frontend, LLM-powered semantic analysis | Lightweight AI, Real-time page monitoring, Early stateful memory experiments |
 | [🎭 Mini Shakespeare Transformer](https://github.com/Shreyaj-pseudo/Mini-Shakespeare-Transformer-model-) | Character-level transformer trained on Shakespeare's works — GPT architecture from scratch | PyTorch, Transformers |
 | [📬 Intelligent Mail Classifier](https://github.com/Shreyaj-pseudo/Personal-Mail-Classifier-using-different-models) | Personal email classification system benchmarking multiple ML models for smart inbox organization | Python, ML, NLP |
